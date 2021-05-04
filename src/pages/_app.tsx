@@ -1,4 +1,4 @@
-import { AuthProvider } from "../contexts/AuthContext"
+import { AuthProvider } from "../hooks/useAuth"
 
 import '../styles/globals.css'
 
